@@ -1,4 +1,5 @@
-# aws-mla-c01
+# AWS-MLA-C01
+### AWS Machine Learning Engineer - Associate (C01)
 ---
 
 1
@@ -247,3 +248,5 @@ https://www.examtopics.com/discussions/amazon/view/152097-exam-aws-certified-mac
 85
 https://www.examtopics.com/discussions/amazon/view/152310-exam-aws-certified-machine-learning-engineer-associate-mla/
 
+---
+## 2025.2 까지
